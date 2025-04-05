@@ -55,6 +55,3 @@ The todo list will be displayed automatically whenever you open a new terminal i
 - Colorful interface for better visualization
 - Persistent storage of tasks
 
-## License
-
-ISC
